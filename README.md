@@ -4,9 +4,12 @@ This project contains scripts and configurations to monitor the status of variou
 
 ## Requirements
 Python 3.x
+
 requests library for Python
+
 systemd installed and running
-Gchat account with the ability to create webhooks in a space
+
+Gchat account with the ability to create webhooks in a chat space
 
 ## Installation
 
