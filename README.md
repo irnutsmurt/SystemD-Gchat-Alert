@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. Initial Service Setup
-Before running the main script, populate a services.txt file with the names of the systemd services you want to monitor. List each service name on a new line.
+Before running the main script, populate the default services.txt file with the names of the systemd services you want to monitor. Replace the default service1, service2, service3 with a service to monitor. You can monitor as many services as you'd like.
 
 For example:
 ```
